@@ -4,7 +4,6 @@ Tags: security, admin, login
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: 1.3
-Version: 1.3
 
 Enables a site administrator to log out a user remotely via the WordPress admin interface
 
